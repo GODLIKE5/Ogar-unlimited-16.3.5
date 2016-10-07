@@ -3,3 +3,4 @@ Old OgarUL but there are new skins and less laggy with vanila settings
 
 You can join your server with Agar.io offical client but you need raga.pw extension to join.
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
